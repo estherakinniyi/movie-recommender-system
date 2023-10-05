@@ -47,7 +47,7 @@ Bar Graph: Ratings Analysis
 ## Acknowledgments:
 I extend my heartfelt gratitude to my dedicated team members whose relentless efforts have propelled us toward our goal:
 
-Samson Ayankunle
-Shedrack Udeh
-Sandisiwe Mtsha
-Al-Morauf Ajasa
+- Samson Ayankunle
+- Shedrack Udeh
+- Sandisiwe Mtsha
+- Al-Morauf Ajasa
